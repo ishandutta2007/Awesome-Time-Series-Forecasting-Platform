@@ -54,72 +54,72 @@ Below is a tabular comparison of leading commercial SaaS platforms sorted by com
 
 The open-source time-series ecosystem provides powerful Python frameworks ranging from classical statistical methods to GPU-accelerated deep neural networks and pretrained foundation models.
 
-Below is the list of top open-source time-series repositories, sorted by **GitHub Star Count** (descending):
+Below is the list of top open-source time-series repositories, sorted by **GitHub Stars_Count** (descending):
 
-1. 🌟 **[Prophet (Meta)](https://github.com/facebook/prophet)** [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
+1. 🌟 **[Prophet (Meta)](https://github.com/facebook/prophet)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
    **The standard for business time-series forecasting** (MIT Licensed). Decomposable additive model fitting non-linear trends with daily, weekly, and yearly seasonality plus holiday effects.
 
-2. 🌟 **[Time-Series-Library (THU ML Group)](https://github.com/thuml/Time-Series-Library)** [![GitHub stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social&color=white)](https://github.com/thuml/Time-Series-Library/stargazers)  
+2. 🌟 **[Time-Series-Library (THU ML Group)](https://github.com/thuml/Time-Series-Library)** [![GitHub_Stars](https://img.shields.io/github/stars/thuml/Time-Series-Library?style=social&color=white)](https://github.com/thuml/Time-Series-Library/stargazers)  
    **A unified library for deep learning time-series models** (MIT Licensed). Implements benchmark deep neural networks including Autoformer, Informer, FEDformer, TimesNet, and PatchTST.
 
-3. 🌟 **[sktime](https://github.com/sktime/sktime)** [![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers)  
+3. 🌟 **[sktime](https://github.com/sktime/sktime)** [![GitHub_Stars](https://img.shields.io/github/stars/sktime/sktime?style=social&color=white)](https://github.com/sktime/sktime/stargazers)  
    **Unified framework for time-series machine learning** (BSD-3-Clause). Dedicated interfaces for forecasting, classification, regression, clustering, and anomaly detection with scikit-learn compatibility.
 
-4. 🌟 **[PyCaret](https://github.com/pycaret/pycaret)** [![GitHub stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social&color=white)](https://github.com/pycaret/pycaret/stargazers)  
+4. 🌟 **[PyCaret](https://github.com/pycaret/pycaret)** [![GitHub_Stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social&color=white)](https://github.com/pycaret/pycaret/stargazers)  
    **Low-code machine learning in Python** (MIT Licensed). Features a modular time-series forecasting module supporting automated model comparison, hyperparameter tuning, and ensembling.
 
-5. 🌟 **[Darts (Unit8)](https://github.com/unit8co/darts)** [![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
+5. 🌟 **[Darts (Unit8)](https://github.com/unit8co/darts)** [![GitHub_Stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
    **User-friendly time-series forecasting & backtesting** (Apache-2.0). Seamlessly unifies classical models (ARIMA, Exponential Smoothing) with deep learning architectures (N-BEATS, TFT, LightGBM).
 
-6. 🌟 **[tsfresh](https://github.com/blue-yonder/tsfresh)** [![GitHub stars](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=social&color=white)](https://github.com/blue-yonder/tsfresh/stargazers)  
+6. 🌟 **[tsfresh](https://github.com/blue-yonder/tsfresh)** [![GitHub_Stars](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=social&color=white)](https://github.com/blue-yonder/tsfresh/stargazers)  
    **Automatic feature extraction for time series** (MIT Licensed). Calculates hundreds of statistical characteristics and features for time-series classification and regression pipelines.
 
-7. 🌟 **[Kats (Meta)](https://github.com/facebookresearch/kats)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/kats?style=social&color=white)](https://github.com/facebookresearch/kats/stargazers)  
+7. 🌟 **[Kats (Meta)](https://github.com/facebookresearch/kats)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/kats?style=social&color=white)](https://github.com/facebookresearch/kats/stargazers)  
    **One-stop shop for time-series analysis** (MIT Licensed). Developed by Meta's Infrastructure Data Science team for forecasting, outlier detection, feature extraction, and time-series simulations.
 
-8. 🌟 **[Chronos (Amazon Science)](https://github.com/amazon-science/chronos-forecasting)** [![GitHub stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social&color=white)](https://github.com/amazon-science/chronos-forecasting/stargazers)  
+8. 🌟 **[Chronos (Amazon Science)](https://github.com/amazon-science/chronos-forecasting)** [![GitHub_Stars](https://img.shields.io/github/stars/amazon-science/chronos-forecasting?style=social&color=white)](https://github.com/amazon-science/chronos-forecasting/stargazers)  
    **Pretrained pretrained language model architectures for zero-shot forecasting** (Apache-2.0). Converts time series data into token sequences to provide probabilistic forecasts out of the box.
 
-9. 🌟 **[GluonTS (AWS)](https://github.com/awslabs/gluonts)** [![GitHub stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social&color=white)](https://github.com/awslabs/gluonts/stargazers)  
+9. 🌟 **[GluonTS (AWS)](https://github.com/awslabs/gluonts)** [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/gluonts?style=social&color=white)](https://github.com/awslabs/gluonts/stargazers)  
    **Probabilistic time-series modeling in Python** (Apache-2.0). Built on PyTorch and MXNet; powers Amazon Forecast algorithms with state-of-the-art probabilistic neural architectures.
 
-10. 🌟 **[PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)** [![GitHub stars](https://img.shields.io/github/stars/jdb78/pytorch-forecasting?style=social&color=white)](https://github.com/jdb78/pytorch-forecasting/stargazers)  
+10. 🌟 **[PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)** [![GitHub_Stars](https://img.shields.io/github/stars/jdb78/pytorch-forecasting?style=social&color=white)](https://github.com/jdb78/pytorch-forecasting/stargazers)  
     **Neural forecasting built on PyTorch Lightning** (MIT Licensed). Provides advanced deep learning architectures such as Temporal Fusion Transformer (TFT), N-BEATS, and DeepAR with rich visualization.
 
-11. 🌟 **[StatsForecast (Nixtla)](https://github.com/Nixtla/statsforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
+11. 🌟 **[StatsForecast (Nixtla)](https://github.com/Nixtla/statsforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
     **Blazing fast statistical forecasting at scale** (Apache-2.0). High-performance C++/Numba optimized implementations of AutoARIMA, AutoETS, CES, and Theta that scale to millions of series.
 
-12. 🌟 **[Merlion (Salesforce)](https://github.com/salesforce/Merlion)** [![GitHub stars](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers)  
+12. 🌟 **[Merlion (Salesforce)](https://github.com/salesforce/Merlion)** [![GitHub_Stars](https://img.shields.io/github/stars/salesforce/Merlion?style=social&color=white)](https://github.com/salesforce/Merlion/stargazers)  
     **Time-series intelligence framework** (BSD-3-Clause). Provides end-to-end benchmarking and model ensembling for time-series forecasting, anomaly detection, and automated alerting.
 
-13. 🌟 **[NeuralForecast (Nixtla)](https://github.com/Nixtla/neuralforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=social&color=white)](https://github.com/Nixtla/neuralforecast/stargazers)  
+13. 🌟 **[NeuralForecast (Nixtla)](https://github.com/Nixtla/neuralforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast?style=social&color=white)](https://github.com/Nixtla/neuralforecast/stargazers)  
     **Deep neural network library for time-series** (Apache-2.0). Complete suite of PyTorch neural models including N-HiTS, PatchTST, NHITS, and AutoFormer for multi-horizon forecasting.
 
-14. 🌟 **[Orbit (Uber)](https://github.com/uber/orbit)** [![GitHub stars](https://img.shields.io/github/stars/uber/orbit?style=social&color=white)](https://github.com/uber/orbit/stargazers)  
+14. 🌟 **[Orbit (Uber)](https://github.com/uber/orbit)** [![GitHub_Stars](https://img.shields.io/github/stars/uber/orbit?style=social&color=white)](https://github.com/uber/orbit/stargazers)  
     **Bayesian time-series forecasting with PyStan & Pyro** (Apache-2.0). Flexible Bayesian structural time-series model (DLM, KGLM) for marketing mix modeling and demand forecasting.
 
-15. 🌟 **[pmdarima](https://github.com/alkaline-ml/pmdarima)** [![GitHub stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima?style=social&color=white)](https://github.com/alkaline-ml/pmdarima/stargazers)  
+15. 🌟 **[pmdarima](https://github.com/alkaline-ml/pmdarima)** [![GitHub_Stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima?style=social&color=white)](https://github.com/alkaline-ml/pmdarima/stargazers)  
     **Python statistical ARIMA modeling toolkit** (MIT Licensed). Scikit-learn compliant wrapper around R's auto.arima function for automatic seasonal order selection and differencing tests.
 
-16. 🌟 **[Moirai / uni2ts (Salesforce AI Research)](https://github.com/SalesforceAIResearch/uni2ts)** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts?style=social&color=white)](https://github.com/SalesforceAIResearch/uni2ts/stargazers)  
+16. 🌟 **[Moirai / uni2ts (Salesforce AI Research)](https://github.com/SalesforceAIResearch/uni2ts)** [![GitHub_Stars](https://img.shields.io/github/stars/SalesforceAIResearch/uni2ts?style=social&color=white)](https://github.com/SalesforceAIResearch/uni2ts/stargazers)  
     **Universal time-series foundation model library** (Apache-2.0). Masked encoder architecture pretrained on LOTSA dataset for zero-shot probabilistic forecasting across arbitrary frequencies.
 
-17. 🌟 **[Lag-Llama](https://github.com/time-series-foundation-models/lag-llama)** [![GitHub stars](https://img.shields.io/github/stars/time-series-foundation-models/lag-llama?style=social&color=white)](https://github.com/time-series-foundation-models/lag-llama/stargazers)  
+17. 🌟 **[Lag-Llama](https://github.com/time-series-foundation-models/lag-llama)** [![GitHub_Stars](https://img.shields.io/github/stars/time-series-foundation-models/lag-llama?style=social&color=white)](https://github.com/time-series-foundation-models/lag-llama/stargazers)  
     **Foundation model for univariate probabilistic forecasting** (Apache-2.0). Decoder-only Transformer model based on Llama architecture using lag features for zero-shot prediction.
 
-18. 🌟 **[arch](https://github.com/bashtage/arch)** [![GitHub stars](https://img.shields.io/github/stars/bashtage/arch?style=social&color=white)](https://github.com/bashtage/arch/stargazers)  
+18. 🌟 **[arch](https://github.com/bashtage/arch)** [![GitHub_Stars](https://img.shields.io/github/stars/bashtage/arch?style=social&color=white)](https://github.com/bashtage/arch/stargazers)  
     **Financial econometrics & volatility forecasting in Python** (RISC-1). Implements GARCH, EGARCH, TARCH, and unit root testing for financial asset pricing and volatility modeling.
 
-19. 🌟 **[AutoTS](https://github.com/winedarksea/AutoTS)** [![GitHub stars](https://img.shields.io/github/stars/winedarksea/AutoTS?style=social&color=white)](https://github.com/winedarksea/AutoTS/stargazers)  
+19. 🌟 **[AutoTS](https://github.com/winedarksea/AutoTS)** [![GitHub_Stars](https://img.shields.io/github/stars/winedarksea/AutoTS?style=social&color=white)](https://github.com/winedarksea/AutoTS/stargazers)  
     **Automated time-series forecasting library** (MIT Licensed). Uses genetic algorithms to discover optimal pre-processing, ensembling, and model configurations automatically.
 
-20. 🌟 **[MLForecast (Nixtla)](https://github.com/Nixtla/mlforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers)  
+20. 🌟 **[MLForecast (Nixtla)](https://github.com/Nixtla/mlforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers)  
     **Machine learning forecasting pipelines** (Apache-2.0). Scalable feature engineering for tree-based models (LightGBM, XGBoost, CatBoost) with high performance on large datasets.
 
-21. 🌟 **[Granite TSFM (IBM)](https://github.com/ibm-granite/granite-tsfm)** [![GitHub stars](https://img.shields.io/github/stars/ibm-granite/granite-tsfm?style=social&color=white)](https://github.com/ibm-granite/granite-tsfm/stargazers)  
+21. 🌟 **[Granite TSFM (IBM)](https://github.com/ibm-granite/granite-tsfm)** [![GitHub_Stars](https://img.shields.io/github/stars/ibm-granite/granite-tsfm?style=social&color=white)](https://github.com/ibm-granite/granite-tsfm/stargazers)  
     **IBM Granite time-series foundation models** (Apache-2.0). Open-source foundation model wrappers providing uniform APIs for zero-shot forecasting, fine-tuning, and classification.
 
-22. 🌟 **[Omnicast](https://github.com/afraz496/omnicast)** [![GitHub stars](https://img.shields.io/github/stars/afraz496/omnicast?style=social&color=white)](https://github.com/afraz496/omnicast/stargazers)  
+22. 🌟 **[Omnicast](https://github.com/afraz496/omnicast)** [![GitHub_Stars](https://img.shields.io/github/stars/afraz496/omnicast?style=social&color=white)](https://github.com/afraz496/omnicast/stargazers)  
     **Interval-aware automatic statistical forecasting** (Open Source). Provides clean interval estimation, backtesting, and automated model selection across statistical and LSTM backends.
 
 ---
